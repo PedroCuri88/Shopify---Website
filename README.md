@@ -1,10 +1,10 @@
-# Shopify's website recreation
+# Shopify website recreation
 >status: Completed ✅
 
 # About the project.
-![Shopify](https://img.shields.io/badge/Shopify-EF3939?style=for-the-badge&logo=Shopify&logoColor=white) Shopify's website redesign.
+![Shopify](https://img.shields.io/badge/Shopify-EF3939?style=for-the-badge&logo=Shopify&logoColor=white) Shopify website redesign.
 
-![Print Shopify's website recreation](https://github.com/PedroCuri88/Shopify---Website/assets/174622769/07b110e2-30c9-4c93-8d12-831affb54844)
+![Print Shopify website recreation](https://github.com/PedroCuri88/Shopify---Website/assets/174622769/07b110e2-30c9-4c93-8d12-831affb54844)
 
 # Technologies used
 ## Front-end
