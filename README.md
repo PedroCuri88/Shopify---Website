@@ -1,4 +1,4 @@
-# Shopify website recreation
+# Shopify website
 >status: Completed ✅
 
 # About the project.
